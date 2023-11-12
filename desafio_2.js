@@ -1,3 +1,5 @@
+// DESAFIO 2
+
 let heroi = "Gabys";
 let vitorias = 15;
 let derrotas = 5;
